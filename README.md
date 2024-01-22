@@ -1,12 +1,16 @@
-There is not a single printable bloatless document with GTA San Andreas cheats,
-this is an example of how it should be.
+# Grand Theft Auto San Andreas Cheats
 
-Could this thing be better?
+There is not a single printable bloatless document with Grand Theft Auto San Andreas cheats, enjoy
+
+## IAQ (Infrequently Asked Questions):
+
+### Could this thing be better?
 Yes.
-\\
-Is it bloat?
+
+### Is it bloat?
 Yes, but less than the rest of the internet so far.
 
-Enjoy it.
-\\
-![alt text](https://github.com/captainedward/Grand-Theft-Auto-San-Andreas-Cheats/wojack.jpg?raw=true)
+# Enjoy it.
+
+![alt text](https://github.com/captainedward/Grand-Theft-Auto-San-Andreas-Cheats/blob/main/wojack.jpg)
+>Me in the process of making this file.
