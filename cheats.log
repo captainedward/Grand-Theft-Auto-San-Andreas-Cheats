@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.15)  20 JAN 2024 18:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.15)  22 JAN 2024 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -109,58 +109,30 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
-
-
-LaTeX Warning: No \author given.
-
-<wojack.jpg, id=1, 1003.75pt x 1003.75pt>
-File: wojack.jpg Graphic file (type jpg)
-<use wojack.jpg>
-Package pdftex.def Info: wojack.jpg  used on input line 21.
-(pdftex.def)             Requested size: 301.12732pt x 301.12732pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 21.
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--25
-
+Overfull \hbox (58.16821pt too wide) in alignment at lines 11--122
+ [] [] 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./wojack.jpg>]
-Overfull \hbox (58.16821pt too wide) in alignment at lines 25--136
- [] [] 
- []
-
-[2{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3]
-(./cheats.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
+/enc/dvips/cm-super/cm-super-ts1.enc}] [2] (./cheats.aux) ) 
 Here is how much of TeX's memory you used:
- 1418 strings out of 477386
- 22828 string characters out of 5830686
+ 1390 strings out of 477386
+ 22509 string characters out of 5830686
  1880388 words of memory out of 5000000
- 21667 multiletter control sequences out of 15000+600000
- 516266 words of font info for 45 fonts, out of 8000000 for 9000
+ 21648 multiletter control sequences out of 15000+600000
+ 513836 words of font info for 37 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
- 57i,8n,62p,205b,250s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
-></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
-b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/te
-xmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb>
-Output written on cheats.pdf (3 pages, 182990 bytes).
+ 57i,5n,62p,205b,254s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb>
+Output written on cheats.pdf (2 pages, 57838 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 32 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
